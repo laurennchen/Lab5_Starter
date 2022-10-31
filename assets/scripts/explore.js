@@ -49,12 +49,12 @@ function init() {
     
   })
 
-  var isSpeaking = synth.speaking;
+  /*var isSpeaking = synth.speaking;
   console.log(isSpeaking);
    
   while (isSpeaking == true) {
     isSpeaking = synth.speaking;
     console.log(isSpeaking);
-  }
+  }*/
 
 }
