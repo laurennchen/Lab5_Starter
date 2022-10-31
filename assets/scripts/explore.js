@@ -46,7 +46,6 @@ function init() {
       }
     }
     synth.speak(speakText);
-    
   })
 
   /*var isSpeaking = synth.speaking;
